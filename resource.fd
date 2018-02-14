@@ -1,0 +1,17 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by compute_expresions.rc
+!
+      integer, parameter :: IDM_ABOUTBOX                    = 16
+      integer, parameter :: IDD_ABOUTBOX                    = 100
+      integer, parameter :: IDS_ABOUTBOX                    = 101
+      integer, parameter :: IDD_COMPUTE_EXPRESIONS_DIALOG   = 102
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: IDC_expresion                   = 1002
+      integer, parameter :: IDC_polish                      = 1003
+      integer, parameter :: IDC_algebric                    = 1004
+      integer, parameter :: IDC_compute                     = 1005
+      integer, parameter :: IDC_result                      = 1006
+      integer, parameter :: IDC_reset                       = 1007
+      integer, parameter :: IDC_history                     = 1014
+      integer, parameter :: IDC_memory                      = 1015
